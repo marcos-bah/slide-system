@@ -10,9 +10,6 @@ export default function Header() {
         <div className="flex items-center text-lg font-medium">
           Slide System
         </div>
-        <Button className="bg-white text-black">
-          <PresentationIcon className="mr-2 h-4 w-4" /> Criar Apresentação
-        </Button>
       </div>
     </nav>
   );
